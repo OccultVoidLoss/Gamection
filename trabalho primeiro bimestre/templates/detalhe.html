@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block titulo %} Main {% endblock %}
+{% block content %}
+<h1>{{jogo.nome}}</h1>
+<p>Desenvolvedora: {{jogo.dev}}</p>
+<p>Data: {{jogo.data}}</p>
+<p>Gênero: {{jogo.genero}}</p>
+<p>Categorias: {{jogo.cat}}</p>
+<p>Plataformas: {{jogo.plat}}</p>
+
+<p>{{jogo.sinopse}}</p>
+{% endblock %}
