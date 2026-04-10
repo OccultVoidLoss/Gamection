@@ -8,5 +8,4 @@ falta:
 2. Sistema de categoria
 3. Página inicial decente
 4. css
-5. comentários
-6. parte de ver apenas as imagens dos jogos e poder clicar pra ver os detalhes do jogo específico 
+5. comentários 
